@@ -34,6 +34,9 @@ The following list may be incomplete, feel free to submit a PR with an update:
     * - FreeBSD
       - ``pkg install zrepl``
       - `<https://www.freshports.org/sysutils/zrepl/>`_
+    * - MacOS (homebrew)
+      - ``brew install zrepl``
+      - Available on the `homebre <https://brew.sh/>` package manager <
     * - Others
       -
       - Use `binary releases`_ or build from source.
